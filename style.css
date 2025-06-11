@@ -39,7 +39,9 @@ body{
     
     background-color: aliceblue;
 
+
     background-image: url(papelCaderno.png);
+ 
 
 background-size: cover,  auto;
 background-repeat: no-repeat, repeat;
